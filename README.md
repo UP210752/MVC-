@@ -1,2 +1,2 @@
 # MVC-
-Project that i developed during my internship
+Project that i have developed during my internship
