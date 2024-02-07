@@ -1,2 +1,3 @@
-# MVC-
-Project that i have developed during my internship
+# MVC
+This repository shows architectures, frameworks, languages, soft-hard skills, etc... that i've developed during my intership
+
